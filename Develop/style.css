@@ -108,25 +108,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.strategy {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,14 +125,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*changed the footer from a header class to a footer element*/ 
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*changed the footer from a header class to a footer element*/ 
 footer h2 {
     font-size: 20px;
 }
